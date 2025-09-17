@@ -40,5 +40,7 @@ bash
 Copy code
 flutter run
 For help getting started with Flutter, view the online documentation.
-🏷️ Tags
+## 🏷️ Tags
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Video-Call](https://img.shields.io/badge/Video%20Call-WebRTC-blue?style=for-the-badge) ![Chat-App](https://img.shields.io/badge/Chat-App-green?style=for-the-badge)  
 
